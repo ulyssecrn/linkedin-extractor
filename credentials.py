@@ -3,5 +3,5 @@
 user = ''
 pwd = ''
 group = ''
-first = ''
-last = ''
+first =
+last = 
